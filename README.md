@@ -1,50 +1,26 @@
-![Cinetry](https://socialify.git.ci/gstory0404/Cinetry/image?custom_description=%F0%9F%93%A1%E6%95%B0%E6%8D%AE%E6%BA%90%EF%BC%9AJellyfin%E3%80%81Emby%E3%80%81CMS%E3%80%81IPTV%E3%80%81Webdav%E3%80%81Alist%E3%80%81Openlist%E3%80%81Subsonic%E3%80%81Navidrom%0A%F0%9F%92%BB%E5%AE%A2%E6%88%B7%E7%AB%AF%EF%BC%9AAndorid%E3%80%81iOS%E3%80%81Windows%E3%80%81macOS%E3%80%81Linux%E3%80%81TV&description=1&font=Bitter&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fgstory0404%2FCinetry%2Frefs%2Fheads%2Fmaster%2Fcinetry_logo.png&name=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
+# Cinetry
 
-<a href="https://qm.qq.com/q/jePcmnUHy8"><img src=https://img.shields.io/badge/QQ%E7%BE%A4-Cinetry-blue></a>
-<a href="https://t.me/cinetry"><img src=https://img.shields.io/badge/Telegram%E9%A2%91%E9%81%93-Cinetry-blue></a>
-<a href="https://t.me/CinetryGroup"><img src=https://img.shields.io/badge/Telegram%E7%BE%A4%E7%BB%84-Cinetry-blue></a>
+本仓库是「Cinetry」的安卓版本获取入口，附使用资料索引。
 
-Cinetry 是一款专为媒体爱好者设计的跨平台客户端软件，软件不提供任何数据，整合用户添加的媒体服务器（如 Jellyfin、Emby、CMS 、webdav、Subsonic、Navidrom、GD音乐台、audiobookshelf、道理鱼、飞牛影视和IPTV）的功能。通过强大的数据导入、聚合搜索和一键切换功能，Cinetry 让用户能够轻松管理多台媒体服务器中的内容，并享受一致的用户体验，无论是在 Windows、macOS、Linux、TV、Android 还是 iOS 平台上。纯本地客户端，不扫库仅通过接口获取当前页面展示所需数据。[使用文档](https://cinetry.gstory.cn)
+## 安装文件资源（夸克网盘）
 
-# 下载
+> **Cinetry 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/1891225d2bef](https://pan.quark.cn/s/1891225d2bef)
 
-> iOS借助爱思助手、巨魔安装，打赏任意金额留言邮箱获取邀请TestFlight链接
+## 官方项目
 
-## 正式版
-- [Github](https://github.com/gstory0404/Cinetry/releases)
-- [123云盘](https://www.123865.com/s/3tw0Td-2dOkh)
-- [小飞机网盘](https://share.feijipan.com/s/xM1XiLnq)（免登录）
-  
-## 测试版
-- [123云盘](https://www.123865.com/s/3tw0Td-AfOkh)
-- [小飞机网盘](https://share.feijipan.com/s/qU1XiDbF)（免登录）
+- 上游项目：[gstory0404/Cinetry](https://github.com/gstory0404/Cinetry)
 
-## TODO
+## 更多资料
 
-- Web(docker版)适配中
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Cinetry/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [常见问题与故障排查](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Cinetry/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E6%95%85%E9%9A%9C%E6%8E%92%E6%9F%A5.md)
+- [播放手势与画质字幕设置](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Cinetry/%E6%92%AD%E6%94%BE%E6%89%8B%E5%8A%BF%E4%B8%8E%E7%94%BB%E8%B4%A8%E5%AD%97%E5%B9%95%E8%AE%BE%E7%BD%AE.md)
+- [添加资源库与服务器连接教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Cinetry/%E6%B7%BB%E5%8A%A0%E8%B5%84%E6%BA%90%E5%BA%93%E4%B8%8E%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%9E%E6%8E%A5%E6%95%99%E7%A8%8B.md)
+- [电视盒子上怎么用与遥控器操作](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Cinetry/%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90%E4%B8%8A%E6%80%8E%E4%B9%88%E7%94%A8%E4%B8%8E%E9%81%A5%E6%8E%A7%E5%99%A8%E6%93%8D%E4%BD%9C.md)
+- [聚合搜索与切换服务器怎么用](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Cinetry/%E8%81%9A%E5%90%88%E6%90%9C%E7%B4%A2%E4%B8%8E%E5%88%87%E6%8D%A2%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%80%8E%E4%B9%88%E7%94%A8.md)
+- [资源库地址与参数怎么填](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/Cinetry/%E8%B5%84%E6%BA%90%E5%BA%93%E5%9C%B0%E5%9D%80%E4%B8%8E%E5%8F%82%E6%95%B0%E6%80%8E%E4%B9%88%E5%A1%AB.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
-|                                                                                                                          |                                                                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/gstory0404/Cinetry/refs/heads/master/pc2.png" width="500" alt="Image 1">| <img src="https://raw.githubusercontent.com/gstory0404/Cinetry/refs/heads/master/phone2.jpg" width="200" alt="Image 2"> |
+---
 
-### 下载地址
-
-[github](https://github.com/gstory0404/Cinetry/releases)  [123网盘](https://www.123865.com/s/3tw0Td-2dOkh)
-
-### 支持
-
-开发维护不易，支持作者
-
-> 留言邮箱获取邀请TestFlight链接
-
-<img src="https://file.gstory.cn/my/wechatds.png" width="180" alt="Image 1">
-
-## Star
-
-[![Stargazers over time](https://starchart.cc/gstory0404/Cinetry.svg?variant=adaptive)](https://starchart.cc/gstory0404/Cinetry)
-
-# 申明
-
-- Cinetry是一款免费工具，旨在为用户提供便捷的方式，通过用户自行配置的苹果CMS、IPTV、WebDav、AList、OpenList、Jellyfin、Emby、Subsonic、Navidrom、GD音乐台、飞牛影视等服务来展示、搜索和播放影片。本应用本身不托管、存储或分发任何影视内容，也不提供任何影视资源或相关链接。所有内容的获取、展示和播放均由用户提供的苹果CMS、IPTV、WebDav、AList、OpenList、Jellyfin、Emby、Subsonic、Navidrom、GD音乐台决定。
-- Cinetry严格遵守隐私保护原则，不会收集、存储或传输任何用户的个人信息或数据。您的所有操作（如连接到苹果CMS、IPTV、WebDav、AList、OpenList、Jellyfin、Emby、Subsonic、Navidrom、GD音乐台、飞牛影视等服务）均在本地设备上完成，且所有数据流均直接与您所配置的服务进行交互，本应用不会对数据进行任何形式的记录或转发。
-- Cinetry仅为技术工具，不参与也未授权任何内容的分发或传播。您通过本应用查看或播放的任何内容，均来源于您自行配置的苹果CMS、IPTV、WebDav、AList、OpenList、Jellyfin、Emby、Subsonic、Navidrom、GD音乐台、飞牛影视等服务。您需要确保这些服务中包含的内容是合法的，并符合您所在地区的法律法规。对于任何非法内容或未经授权的使用行为，本应用概不负责。
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/gstory0404/Cinetry)。
